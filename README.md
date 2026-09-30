@@ -2,14 +2,8 @@
 
 ## Software Systems & AI Engineer
 
-<br>
-
-<!-- The Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nXuuuu/nXuuuu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nXuuuu/nXuuuu/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nXuuuu/nXuuuu/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- Subtle Terminal Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4000&pause=1500&color=24292F&center=true&vCenter=true&width=500&lines=Architecting+intelligent+systems.;Deploying+scalable+cloud+infrastructure.;Exploring+applied+Machine+Learning." alt="Terminal Output" />
 
 </div>
 
