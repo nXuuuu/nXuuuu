@@ -6,9 +6,9 @@
 
 <!-- The Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nXuunu/nXuunu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nXuunu/nXuunu/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nXuunu/nXuunu/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nXuuuu/nXuuuu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nXuuuu/nXuuuu/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nXuuuu/nXuuuu/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -30,8 +30,8 @@ I am a Software Development student at AUPP specializing in high-performance bac
 
 ### ✦ Featured Systems
 
-* **[Financify](https://github.com/nXuunu/Financify)** — A high-performance personal finance tracker. Engineered with React, Vite, and a Supabase backend for real-time analytics.
-* **[Cloudybot](https://github.com/nXuunu/Cloudybot)** — [Replace this bracket with a 1-sentence description of what Cloudybot does, e.g., An automated cloud task manager].
+* **[Financify](https://github.com/nXuuuu/Financify)** — A high-performance personal finance tracker. Engineered with React, Vite, and a Supabase backend for real-time analytics.
+* **[Cloudybot](https://github.com/nXuuuu/Cloudybot)** — [Replace this bracket with a 1-sentence description of what Cloudybot does, e.g., An automated cloud task manager].
 
 <br>
 <div align="center">
