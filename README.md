@@ -1,30 +1,30 @@
-# Sokunthanou.ipynb
+<div align="center">
+  <!-- This generates a cool dynamic header wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Sokunthanou&fontSize=50&fontColor=ffffff" />
+</div>
 
-`In [1]:` `import profile`
-`In [2]:` `profile.describe()`
-
-`Out [2]:` 
-> **Software Systems & AI Engineer** based in Phnom Penh.
-> Specializing in algorithmic efficiency, backend architecture, and machine learning pipelines.
-
----
-
-`In [3]:` `profile.show_stack()`
-
-`Out [3]:`
-| Layer | Technologies |
-| :--- | :--- |
-| **Logic & ML** | `Python`, `TensorFlow`, `C++` |
-| **Infrastructure** | `Docker`, `PostgreSQL`, `Supabase` |
-| **Client** | `React`, `Vite`, `Node.js` |
+<div align="center">
+  <h3>⚡ Software Systems & AI Engineer ⚡</h3>
+  <p>Architecting the backend. Training the models. Building the future.</p>
+</div>
 
 ---
 
-`In [4]:` `profile.execute_projects()`
+### 💻 Tech Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
 
-`Out [4]:`
-1.  **[Financify](https://github.com/nXuunu/Financify):** Executed real-time state management and database sync.
-2.  **[CSA-Final](https://github.com/nXuunu/CSA-Final_Project):** Implemented advanced data structures in Python.
+### 🚀 Deployed Projects
+*   🏦 **[Financify](https://github.com/nXuunu/Financify)** - Next-gen personal finance analytics.
+*   🧠 **[CSA-Final_Project](https://github.com/nXuunu/CSA-Final_Project)** - Advanced Python system architecture.
 
----
-`[LinkedIn](https://linkedin.com/in/YOUR_USERNAME)` | `[Email](mailto:YOUR_EMAIL@example.com)`
+<br>
+<div align="center">
+  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
