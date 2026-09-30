@@ -31,7 +31,7 @@ I am a Software Development student at AUPP specializing in high-performance bac
 ### ✦ Featured Systems
 
 * **[Financify](https://github.com/nXuuuu/Financify)** — A high-performance personal finance tracker. Engineered with React, Vite, and a Supabase backend for real-time analytics.
-* **[Cloudybot](https://github.com/nXuuuu/Cloudybot)** — [Replace this bracket with a 1-sentence description of what Cloudybot does, e.g., An automated cloud task manager].
+* **[Cloudybot](https://github.com/nXuuuu/Cloudybot)** — A lightweight Telegram bot that automatically downloads and converts TikTok and Facebook links into high-quality, data-saving videos or images directly inside your group chats..
 
 <br>
 <div align="center">
