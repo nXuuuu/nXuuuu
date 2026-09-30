@@ -32,11 +32,11 @@ I am a Software Development student at AUPP specializing in high-performance bac
 ### ✦ Featured Systems
 
 * **[Financify](https://github.com/nXuuuu/Financify)** — A high-performance personal finance tracker. Engineered with React, Vite, and a Supabase backend for real-time analytics.
-* **[Cloudybot](https://github.com/nXuuuu/Cloudybot)** — A lightweight Telegram bot that automatically downloads and converts TikTok and Facebook links into high-quality, data-saving videos or images directly inside your group chats..
+* **[Cloudybot](https://github.com/nXuuuu/Cloudy-Bot)** — A lightweight Telegram bot that automatically downloads and converts TikTok and Facebook links into high-quality, data-saving videos or images directly inside your group chats.
 
 <br>
 <div align="center">
   <a href="https://nxuuuu.github.io/personal-portfolio/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="[https://linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/sokunthanou-chhoy/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:chhoysokunthanou@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
